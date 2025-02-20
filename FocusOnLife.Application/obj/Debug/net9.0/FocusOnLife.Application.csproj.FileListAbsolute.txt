@@ -1,0 +1,15 @@
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.Application\bin\Debug\net9.0\FocusOnLife.Application.deps.json
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.Application\bin\Debug\net9.0\FocusOnLife.Application.dll
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.Application\bin\Debug\net9.0\FocusOnLife.Application.pdb
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.Application\bin\Debug\net9.0\FocusOnLife.Domain.dll
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.Application\bin\Debug\net9.0\FocusOnLife.Domain.pdb
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.Application\obj\Debug\net9.0\FocusOnLife.Application.csproj.AssemblyReference.cache
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.Application\obj\Debug\net9.0\FocusOnLife.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.Application\obj\Debug\net9.0\FocusOnLife.Application.AssemblyInfoInputs.cache
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.Application\obj\Debug\net9.0\FocusOnLife.Application.AssemblyInfo.cs
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.Application\obj\Debug\net9.0\FocusOnLife.Application.csproj.CoreCompileInputs.cache
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.Application\obj\Debug\net9.0\FocusOnL.EA2AFC9B.Up2Date
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.Application\obj\Debug\net9.0\FocusOnLife.Application.dll
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.Application\obj\Debug\net9.0\refint\FocusOnLife.Application.dll
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.Application\obj\Debug\net9.0\FocusOnLife.Application.pdb
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.Application\obj\Debug\net9.0\ref\FocusOnLife.Application.dll

@@ -1,0 +1,565 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{750C5756-5F9C-4D3B-BF58-3ED3E31D14B4}|FocusOnLife.API\\FocusOnLife.API.csproj|c:\\mazevedo\\stuffs\\focusonlife\\focusonlife.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750C5756-5F9C-4D3B-BF58-3ED3E31D14B4}|FocusOnLife.API\\FocusOnLife.API.csproj|solutionrelative:focusonlife.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB02416-EAF9-4925-9604-AC5A0193C91C}|FocusOnLife.Infrastructure\\FocusOnLife.Infrastructure.csproj|c:\\mazevedo\\stuffs\\focusonlife\\focusonlife.infrastructure\\infrastructuredependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB02416-EAF9-4925-9604-AC5A0193C91C}|FocusOnLife.Infrastructure\\FocusOnLife.Infrastructure.csproj|solutionrelative:focusonlife.infrastructure\\infrastructuredependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB02416-EAF9-4925-9604-AC5A0193C91C}|FocusOnLife.Infrastructure\\FocusOnLife.Infrastructure.csproj|c:\\mazevedo\\stuffs\\focusonlife\\focusonlife.infrastructure\\identity\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB02416-EAF9-4925-9604-AC5A0193C91C}|FocusOnLife.Infrastructure\\FocusOnLife.Infrastructure.csproj|solutionrelative:focusonlife.infrastructure\\identity\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9E41F5-0918-4482-9751-F073E503D15B}|FocusOnLife.Application\\FocusOnLife.Application.csproj|c:\\mazevedo\\stuffs\\focusonlife\\focusonlife.application\\services\\condominioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9E41F5-0918-4482-9751-F073E503D15B}|FocusOnLife.Application\\FocusOnLife.Application.csproj|solutionrelative:focusonlife.application\\services\\condominioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9E41F5-0918-4482-9751-F073E503D15B}|FocusOnLife.Application\\FocusOnLife.Application.csproj|c:\\mazevedo\\stuffs\\focusonlife\\focusonlife.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9E41F5-0918-4482-9751-F073E503D15B}|FocusOnLife.Application\\FocusOnLife.Application.csproj|solutionrelative:focusonlife.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9E41F5-0918-4482-9751-F073E503D15B}|FocusOnLife.Application\\FocusOnLife.Application.csproj|c:\\mazevedo\\stuffs\\focusonlife\\focusonlife.application\\interfaces\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9E41F5-0918-4482-9751-F073E503D15B}|FocusOnLife.Application\\FocusOnLife.Application.csproj|solutionrelative:focusonlife.application\\interfaces\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3696ACC1-89BC-44EA-8ABB-EB70BE5BBD58}|FocusOnLife.Domain\\FocusOnLife.Domain.csproj|c:\\mazevedo\\stuffs\\focusonlife\\focusonlife.domain\\entities\\auth\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3696ACC1-89BC-44EA-8ABB-EB70BE5BBD58}|FocusOnLife.Domain\\FocusOnLife.Domain.csproj|solutionrelative:focusonlife.domain\\entities\\auth\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750C5756-5F9C-4D3B-BF58-3ED3E31D14B4}|FocusOnLife.API\\FocusOnLife.API.csproj|c:\\mazevedo\\stuffs\\focusonlife\\focusonlife.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750C5756-5F9C-4D3B-BF58-3ED3E31D14B4}|FocusOnLife.API\\FocusOnLife.API.csproj|solutionrelative:focusonlife.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750C5756-5F9C-4D3B-BF58-3ED3E31D14B4}|FocusOnLife.API\\FocusOnLife.API.csproj|c:\\mazevedo\\stuffs\\focusonlife\\focusonlife.api\\configurations\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750C5756-5F9C-4D3B-BF58-3ED3E31D14B4}|FocusOnLife.API\\FocusOnLife.API.csproj|solutionrelative:focusonlife.api\\configurations\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB02416-EAF9-4925-9604-AC5A0193C91C}|FocusOnLife.Infrastructure\\FocusOnLife.Infrastructure.csproj|c:\\mazevedo\\stuffs\\focusonlife\\focusonlife.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB02416-EAF9-4925-9604-AC5A0193C91C}|FocusOnLife.Infrastructure\\FocusOnLife.Infrastructure.csproj|solutionrelative:focusonlife.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3696ACC1-89BC-44EA-8ABB-EB70BE5BBD58}|FocusOnLife.Domain\\FocusOnLife.Domain.csproj|c:\\mazevedo\\stuffs\\focusonlife\\focusonlife.domain\\interfaces\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3696ACC1-89BC-44EA-8ABB-EB70BE5BBD58}|FocusOnLife.Domain\\FocusOnLife.Domain.csproj|solutionrelative:focusonlife.domain\\interfaces\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9E41F5-0918-4482-9751-F073E503D15B}|FocusOnLife.Application\\FocusOnLife.Application.csproj|c:\\mazevedo\\stuffs\\focusonlife\\focusonlife.application\\dto\\auth\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9E41F5-0918-4482-9751-F073E503D15B}|FocusOnLife.Application\\FocusOnLife.Application.csproj|solutionrelative:focusonlife.application\\dto\\auth\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9E41F5-0918-4482-9751-F073E503D15B}|FocusOnLife.Application\\FocusOnLife.Application.csproj|c:\\mazevedo\\stuffs\\focusonlife\\focusonlife.application\\dto\\auth\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9E41F5-0918-4482-9751-F073E503D15B}|FocusOnLife.Application\\FocusOnLife.Application.csproj|solutionrelative:focusonlife.application\\dto\\auth\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750C5756-5F9C-4D3B-BF58-3ED3E31D14B4}|FocusOnLife.API\\FocusOnLife.API.csproj|c:\\mazevedo\\stuffs\\focusonlife\\focusonlife.api\\controllers\\condominioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750C5756-5F9C-4D3B-BF58-3ED3E31D14B4}|FocusOnLife.API\\FocusOnLife.API.csproj|solutionrelative:focusonlife.api\\controllers\\condominioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9E41F5-0918-4482-9751-F073E503D15B}|FocusOnLife.Application\\FocusOnLife.Application.csproj|c:\\mazevedo\\stuffs\\focusonlife\\focusonlife.application\\interfaces\\services\\icondominioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9E41F5-0918-4482-9751-F073E503D15B}|FocusOnLife.Application\\FocusOnLife.Application.csproj|solutionrelative:focusonlife.application\\interfaces\\services\\icondominioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750C5756-5F9C-4D3B-BF58-3ED3E31D14B4}|FocusOnLife.API\\FocusOnLife.API.csproj|c:\\mazevedo\\stuffs\\focusonlife\\focusonlife.api\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750C5756-5F9C-4D3B-BF58-3ED3E31D14B4}|FocusOnLife.API\\FocusOnLife.API.csproj|solutionrelative:focusonlife.api\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750C5756-5F9C-4D3B-BF58-3ED3E31D14B4}|FocusOnLife.API\\FocusOnLife.API.csproj|c:\\mazevedo\\stuffs\\focusonlife\\focusonlife.api\\configurations\\jwtconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750C5756-5F9C-4D3B-BF58-3ED3E31D14B4}|FocusOnLife.API\\FocusOnLife.API.csproj|solutionrelative:focusonlife.api\\configurations\\jwtconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB02416-EAF9-4925-9604-AC5A0193C91C}|FocusOnLife.Infrastructure\\FocusOnLife.Infrastructure.csproj|c:\\mazevedo\\stuffs\\focusonlife\\focusonlife.infrastructure\\repositories\\condominiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB02416-EAF9-4925-9604-AC5A0193C91C}|FocusOnLife.Infrastructure\\FocusOnLife.Infrastructure.csproj|solutionrelative:focusonlife.infrastructure\\repositories\\condominiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3696ACC1-89BC-44EA-8ABB-EB70BE5BBD58}|FocusOnLife.Domain\\FocusOnLife.Domain.csproj|c:\\mazevedo\\stuffs\\focusonlife\\focusonlife.domain\\enums\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3696ACC1-89BC-44EA-8ABB-EB70BE5BBD58}|FocusOnLife.Domain\\FocusOnLife.Domain.csproj|solutionrelative:focusonlife.domain\\enums\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3696ACC1-89BC-44EA-8ABB-EB70BE5BBD58}|FocusOnLife.Domain\\FocusOnLife.Domain.csproj|c:\\mazevedo\\stuffs\\focusonlife\\focusonlife.domain\\interfaces\\repositories\\icondominiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3696ACC1-89BC-44EA-8ABB-EB70BE5BBD58}|FocusOnLife.Domain\\FocusOnLife.Domain.csproj|solutionrelative:focusonlife.domain\\interfaces\\repositories\\icondominiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB02416-EAF9-4925-9604-AC5A0193C91C}|FocusOnLife.Infrastructure\\FocusOnLife.Infrastructure.csproj|c:\\mazevedo\\stuffs\\focusonlife\\focusonlife.infrastructure\\data\\arxdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB02416-EAF9-4925-9604-AC5A0193C91C}|FocusOnLife.Infrastructure\\FocusOnLife.Infrastructure.csproj|solutionrelative:focusonlife.infrastructure\\data\\arxdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9E41F5-0918-4482-9751-F073E503D15B}|FocusOnLife.Application\\FocusOnLife.Application.csproj|c:\\mazevedo\\stuffs\\focusonlife\\focusonlife.application\\dto\\condominio\\condominiodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9E41F5-0918-4482-9751-F073E503D15B}|FocusOnLife.Application\\FocusOnLife.Application.csproj|solutionrelative:focusonlife.application\\dto\\condominio\\condominiodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43535538-C3E1-405E-8E59-32B2057E8F0F}|FocusOnLife.FrontEnd\\FocusOnLife.FrontEnd.csproj|c:\\mazevedo\\stuffs\\focusonlife\\focusonlife.frontend\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43535538-C3E1-405E-8E59-32B2057E8F0F}|FocusOnLife.FrontEnd\\FocusOnLife.FrontEnd.csproj|solutionrelative:focusonlife.frontend\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750C5756-5F9C-4D3B-BF58-3ED3E31D14B4}|FocusOnLife.API\\FocusOnLife.API.csproj|c:\\mazevedo\\stuffs\\focusonlife\\focusonlife.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{750C5756-5F9C-4D3B-BF58-3ED3E31D14B4}|FocusOnLife.API\\FocusOnLife.API.csproj|solutionrelative:focusonlife.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43535538-C3E1-405E-8E59-32B2057E8F0F}|FocusOnLife.FrontEnd\\FocusOnLife.FrontEnd.csproj|c:\\mazevedo\\stuffs\\focusonlife\\focusonlife.frontend\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43535538-C3E1-405E-8E59-32B2057E8F0F}|FocusOnLife.FrontEnd\\FocusOnLife.FrontEnd.csproj|solutionrelative:focusonlife.frontend\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43535538-C3E1-405E-8E59-32B2057E8F0F}|FocusOnLife.FrontEnd\\FocusOnLife.FrontEnd.csproj|c:\\mazevedo\\stuffs\\focusonlife\\focusonlife.frontend\\controllers\\dashboard\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43535538-C3E1-405E-8E59-32B2057E8F0F}|FocusOnLife.FrontEnd\\FocusOnLife.FrontEnd.csproj|solutionrelative:focusonlife.frontend\\controllers\\dashboard\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43535538-C3E1-405E-8E59-32B2057E8F0F}|FocusOnLife.FrontEnd\\FocusOnLife.FrontEnd.csproj|c:\\mazevedo\\stuffs\\focusonlife\\focusonlife.frontend\\views\\dashboard\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43535538-C3E1-405E-8E59-32B2057E8F0F}|FocusOnLife.FrontEnd\\FocusOnLife.FrontEnd.csproj|solutionrelative:focusonlife.frontend\\views\\dashboard\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43535538-C3E1-405E-8E59-32B2057E8F0F}|FocusOnLife.FrontEnd\\FocusOnLife.FrontEnd.csproj|c:\\mazevedo\\stuffs\\focusonlife\\focusonlife.frontend\\wwwroot\\js\\admin\\dashboard.v1.0.0.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{43535538-C3E1-405E-8E59-32B2057E8F0F}|FocusOnLife.FrontEnd\\FocusOnLife.FrontEnd.csproj|solutionrelative:focusonlife.frontend\\wwwroot\\js\\admin\\dashboard.v1.0.0.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43535538-C3E1-405E-8E59-32B2057E8F0F}|FocusOnLife.FrontEnd\\FocusOnLife.FrontEnd.csproj|c:\\mazevedo\\stuffs\\focusonlife\\focusonlife.frontend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43535538-C3E1-405E-8E59-32B2057E8F0F}|FocusOnLife.FrontEnd\\FocusOnLife.FrontEnd.csproj|solutionrelative:focusonlife.frontend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43535538-C3E1-405E-8E59-32B2057E8F0F}|FocusOnLife.FrontEnd\\FocusOnLife.FrontEnd.csproj|c:\\mazevedo\\stuffs\\focusonlife\\focusonlife.frontend\\wwwroot\\js\\auth\\login.v1.0.0.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{43535538-C3E1-405E-8E59-32B2057E8F0F}|FocusOnLife.FrontEnd\\FocusOnLife.FrontEnd.csproj|solutionrelative:focusonlife.frontend\\wwwroot\\js\\auth\\login.v1.0.0.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43535538-C3E1-405E-8E59-32B2057E8F0F}|FocusOnLife.FrontEnd\\FocusOnLife.FrontEnd.csproj|c:\\mazevedo\\stuffs\\focusonlife\\focusonlife.frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43535538-C3E1-405E-8E59-32B2057E8F0F}|FocusOnLife.FrontEnd\\FocusOnLife.FrontEnd.csproj|solutionrelative:focusonlife.frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.API\\Configurations\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "FocusOnLife.API\\Configurations\\DependencyInjection.cs",
+              "ToolTip": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.API\\Configurations\\DependencyInjection.cs",
+              "RelativeToolTip": "FocusOnLife.API\\Configurations\\DependencyInjection.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wCYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:59:20.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.Application\\Interfaces\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "FocusOnLife.Application\\Interfaces\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.Application\\Interfaces\\Services\\IAuthService.cs",
+              "RelativeToolTip": "FocusOnLife.Application\\Interfaces\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:52:00.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "FocusOnLife.Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "FocusOnLife.Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:34:24.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.Application\\DTO\\Auth\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "FocusOnLife.Application\\DTO\\Auth\\LoginResponseDto.cs",
+              "ToolTip": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.Application\\DTO\\Auth\\LoginResponseDto.cs",
+              "RelativeToolTip": "FocusOnLife.Application\\DTO\\Auth\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:50:32.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.Domain\\Interfaces\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "FocusOnLife.Domain\\Interfaces\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.Domain\\Interfaces\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "FocusOnLife.Domain\\Interfaces\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:30:57.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "FocusOnLife.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "FocusOnLife.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:35:26.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.API\\Program.cs",
+              "RelativeDocumentMoniker": "FocusOnLife.API\\Program.cs",
+              "ToolTip": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.API\\Program.cs",
+              "RelativeToolTip": "FocusOnLife.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T22:54:40.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.Domain\\Entities\\Auth\\User.cs",
+              "RelativeDocumentMoniker": "FocusOnLife.Domain\\Entities\\Auth\\User.cs",
+              "ToolTip": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.Domain\\Entities\\Auth\\User.cs",
+              "RelativeToolTip": "FocusOnLife.Domain\\Entities\\Auth\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:30:26.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CondominioService.cs",
+              "DocumentMoniker": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.Application\\Services\\CondominioService.cs",
+              "RelativeDocumentMoniker": "FocusOnLife.Application\\Services\\CondominioService.cs",
+              "ToolTip": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.Application\\Services\\CondominioService.cs",
+              "RelativeToolTip": "FocusOnLife.Application\\Services\\CondominioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:52:33.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.Infrastructure\\Identity\\AuthService.cs",
+              "RelativeDocumentMoniker": "FocusOnLife.Infrastructure\\Identity\\AuthService.cs",
+              "ToolTip": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.Infrastructure\\Identity\\AuthService.cs",
+              "RelativeToolTip": "FocusOnLife.Infrastructure\\Identity\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:09:47.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InfrastructureDependencyInjection.cs",
+              "DocumentMoniker": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.Infrastructure\\InfrastructureDependencyInjection.cs",
+              "RelativeDocumentMoniker": "FocusOnLife.Infrastructure\\InfrastructureDependencyInjection.cs",
+              "ToolTip": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.Infrastructure\\InfrastructureDependencyInjection.cs",
+              "RelativeToolTip": "FocusOnLife.Infrastructure\\InfrastructureDependencyInjection.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAvwBMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:09:11.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "FocusOnLife.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.API\\Controllers\\AuthController.cs*",
+              "RelativeToolTip": "FocusOnLife.API\\Controllers\\AuthController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T16:36:17.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.Application\\DTO\\Auth\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "FocusOnLife.Application\\DTO\\Auth\\LoginRequestDto.cs",
+              "ToolTip": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.Application\\DTO\\Auth\\LoginRequestDto.cs",
+              "RelativeToolTip": "FocusOnLife.Application\\DTO\\Auth\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:50:25.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICondominioService.cs",
+              "DocumentMoniker": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.Application\\Interfaces\\Services\\ICondominioService.cs",
+              "RelativeDocumentMoniker": "FocusOnLife.Application\\Interfaces\\Services\\ICondominioService.cs",
+              "ToolTip": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.Application\\Interfaces\\Services\\ICondominioService.cs",
+              "RelativeToolTip": "FocusOnLife.Application\\Interfaces\\Services\\ICondominioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:52:12.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CondominiosController.cs",
+              "DocumentMoniker": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.API\\Controllers\\CondominiosController.cs",
+              "RelativeDocumentMoniker": "FocusOnLife.API\\Controllers\\CondominiosController.cs",
+              "ToolTip": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.API\\Controllers\\CondominiosController.cs",
+              "RelativeToolTip": "FocusOnLife.API\\Controllers\\CondominiosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T14:18:18.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "FocusOnLife.API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "FocusOnLife.API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:00:05.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JwtConfiguration.cs",
+              "DocumentMoniker": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.API\\Configurations\\JwtConfiguration.cs",
+              "RelativeDocumentMoniker": "FocusOnLife.API\\Configurations\\JwtConfiguration.cs",
+              "ToolTip": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.API\\Configurations\\JwtConfiguration.cs",
+              "RelativeToolTip": "FocusOnLife.API\\Configurations\\JwtConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:59:33.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CondominioRepository.cs",
+              "DocumentMoniker": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.Infrastructure\\Repositories\\CondominioRepository.cs",
+              "RelativeDocumentMoniker": "FocusOnLife.Infrastructure\\Repositories\\CondominioRepository.cs",
+              "ToolTip": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.Infrastructure\\Repositories\\CondominioRepository.cs",
+              "RelativeToolTip": "FocusOnLife.Infrastructure\\Repositories\\CondominioRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T14:24:41.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.Domain\\Enums\\UserRoles.cs",
+              "RelativeDocumentMoniker": "FocusOnLife.Domain\\Enums\\UserRoles.cs",
+              "ToolTip": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.Domain\\Enums\\UserRoles.cs",
+              "RelativeToolTip": "FocusOnLife.Domain\\Enums\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:52:07.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICondominioRepository.cs",
+              "DocumentMoniker": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.Domain\\Interfaces\\Repositories\\ICondominioRepository.cs",
+              "RelativeDocumentMoniker": "FocusOnLife.Domain\\Interfaces\\Repositories\\ICondominioRepository.cs",
+              "ToolTip": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.Domain\\Interfaces\\Repositories\\ICondominioRepository.cs",
+              "RelativeToolTip": "FocusOnLife.Domain\\Interfaces\\Repositories\\ICondominioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T14:26:46.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ArxDbContext.cs",
+              "DocumentMoniker": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.Infrastructure\\Data\\ArxDbContext.cs",
+              "RelativeDocumentMoniker": "FocusOnLife.Infrastructure\\Data\\ArxDbContext.cs",
+              "ToolTip": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.Infrastructure\\Data\\ArxDbContext.cs",
+              "RelativeToolTip": "FocusOnLife.Infrastructure\\Data\\ArxDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T14:23:13.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CondominioDto.cs",
+              "DocumentMoniker": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.Application\\DTO\\Condominio\\CondominioDto.cs",
+              "RelativeDocumentMoniker": "FocusOnLife.Application\\DTO\\Condominio\\CondominioDto.cs",
+              "ToolTip": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.Application\\DTO\\Condominio\\CondominioDto.cs",
+              "RelativeToolTip": "FocusOnLife.Application\\DTO\\Condominio\\CondominioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:53:57.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.FrontEnd\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "FocusOnLife.FrontEnd\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.FrontEnd\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "FocusOnLife.FrontEnd\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T21:54:32.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.API\\appsettings.json",
+              "RelativeDocumentMoniker": "FocusOnLife.API\\appsettings.json",
+              "ToolTip": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.API\\appsettings.json",
+              "RelativeToolTip": "FocusOnLife.API\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T21:47:55.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.FrontEnd\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FocusOnLife.FrontEnd\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.FrontEnd\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FocusOnLife.FrontEnd\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T21:32:48.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.FrontEnd\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FocusOnLife.FrontEnd\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.FrontEnd\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FocusOnLife.FrontEnd\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T17:38:08.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.FrontEnd\\Program.cs",
+              "RelativeDocumentMoniker": "FocusOnLife.FrontEnd\\Program.cs",
+              "ToolTip": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.FrontEnd\\Program.cs",
+              "RelativeToolTip": "FocusOnLife.FrontEnd\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T16:52:24.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.FrontEnd\\Controllers\\Dashboard\\DashboardController.cs",
+              "RelativeDocumentMoniker": "FocusOnLife.FrontEnd\\Controllers\\Dashboard\\DashboardController.cs",
+              "ToolTip": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.FrontEnd\\Controllers\\Dashboard\\DashboardController.cs",
+              "RelativeToolTip": "FocusOnLife.FrontEnd\\Controllers\\Dashboard\\DashboardController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T16:48:07.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "dashboard.v1.0.0.js",
+              "DocumentMoniker": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.FrontEnd\\wwwroot\\js\\Admin\\dashboard.v1.0.0.js",
+              "RelativeDocumentMoniker": "FocusOnLife.FrontEnd\\wwwroot\\js\\Admin\\dashboard.v1.0.0.js",
+              "ToolTip": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.FrontEnd\\wwwroot\\js\\Admin\\dashboard.v1.0.0.js",
+              "RelativeToolTip": "FocusOnLife.FrontEnd\\wwwroot\\js\\Admin\\dashboard.v1.0.0.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-17T16:44:49.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.FrontEnd\\Views\\Dashboard\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "FocusOnLife.FrontEnd\\Views\\Dashboard\\Dashboard.cshtml",
+              "ToolTip": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.FrontEnd\\Views\\Dashboard\\Dashboard.cshtml",
+              "RelativeToolTip": "FocusOnLife.FrontEnd\\Views\\Dashboard\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T16:40:48.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "login.v1.0.0.js",
+              "DocumentMoniker": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.FrontEnd\\wwwroot\\js\\Auth\\login.v1.0.0.js",
+              "RelativeDocumentMoniker": "FocusOnLife.FrontEnd\\wwwroot\\js\\Auth\\login.v1.0.0.js",
+              "ToolTip": "C:\\MAzevedo\\Stuffs\\FocusOnLife\\FocusOnLife.FrontEnd\\wwwroot\\js\\Auth\\login.v1.0.0.js",
+              "RelativeToolTip": "FocusOnLife.FrontEnd\\wwwroot\\js\\Auth\\login.v1.0.0.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-17T16:35:04.818Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_FocusOnLife.Tests
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.Tests\bin\Debug\net9.0\CoverletSourceRootsMapping_FocusOnLife.Tests
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.Tests\obj\Debug\net9.0\FocusOnLife.Tests.csproj.AssemblyReference.cache
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.Tests\obj\Debug\net9.0\FocusOnLife.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.Tests\obj\Debug\net9.0\FocusOnLife.Tests.AssemblyInfoInputs.cache
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.Tests\obj\Debug\net9.0\FocusOnLife.Tests.AssemblyInfo.cs
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.Tests\obj\Debug\net9.0\FocusOnLife.Tests.csproj.CoreCompileInputs.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "FocusOnLife.Domain/1.0.0": {
+        "runtime": {
+          "FocusOnLife.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FocusOnLife.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

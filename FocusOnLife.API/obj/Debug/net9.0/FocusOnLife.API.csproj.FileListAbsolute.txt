@@ -1,0 +1,6 @@
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.API\obj\Debug\net9.0\FocusOnLife.API.csproj.AssemblyReference.cache
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.API\obj\Debug\net9.0\FocusOnLife.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.API\obj\Debug\net9.0\FocusOnLife.API.AssemblyInfoInputs.cache
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.API\obj\Debug\net9.0\FocusOnLife.API.AssemblyInfo.cs
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.API\obj\Debug\net9.0\FocusOnLife.API.csproj.CoreCompileInputs.cache
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.API\obj\Debug\net9.0\FocusOnLife.API.MvcApplicationPartsAssemblyInfo.cache

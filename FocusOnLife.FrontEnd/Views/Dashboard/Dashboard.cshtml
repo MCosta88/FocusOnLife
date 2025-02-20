@@ -1,0 +1,43 @@
+﻿@{
+    Layout = "_Layout";
+}
+
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard - Condomínios</title>
+
+  
+</head>
+<body>
+<h1>Dashboard - Condomínios</h1>
+
+<div>
+    <!-- Filtros -->
+    <label for="nome">Nome: </label>
+    <input type="text" id="nome" placeholder="Pesquisar por nome..." />
+
+    <label for="ativo">Ativo: </label>
+    <select id="ativo">
+        <option value="">Todos</option>
+        <option value="true">Ativo</option>
+        <option value="false">Desativado</option>
+    </select>
+
+    <label for="localidade">Localidade: </label>
+    <input type="text" id="localidade" placeholder="Pesquisar por localidade..." />
+
+    <button id="filtrar">Filtrar</button>
+</div>
+
+<!-- Kendo UI Grid -->
+<div id="grdCondominios"></div>
+
+<!-- Referenciar o arquivo JS de Dashboard com a versão -->
+    @section Scripts {
+        <script src="~/js/Admin/dashboard.v1.0.0.js"></script>
+    }
+</body>
+</html>

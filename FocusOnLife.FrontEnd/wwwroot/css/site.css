@@ -1,0 +1,65 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+body {
+    background-color: #f4f8fc;
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.card-body {
+    padding: 30px;
+}
+
+.card-title {
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+input.form-control {
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+button.btn {
+    border-radius: 8px;
+    padding: 12px;
+    background-color: #3498db;
+    color: white;
+}
+
+    button.btn:hover {
+        background-color: #2980b9;
+    }
+
+#error-message {
+    color: red;
+    font-size: 14px;
+    display: none;
+}

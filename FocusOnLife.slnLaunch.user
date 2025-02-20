@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "FocusOnLife.API\\FocusOnLife.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "FocusOnLife.FrontEnd\\FocusOnLife.FrontEnd.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

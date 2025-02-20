@@ -1,0 +1,11 @@
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.Domain\bin\Debug\net9.0\FocusOnLife.Domain.deps.json
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.Domain\bin\Debug\net9.0\FocusOnLife.Domain.dll
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.Domain\bin\Debug\net9.0\FocusOnLife.Domain.pdb
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.Domain\obj\Debug\net9.0\FocusOnLife.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.Domain\obj\Debug\net9.0\FocusOnLife.Domain.AssemblyInfoInputs.cache
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.Domain\obj\Debug\net9.0\FocusOnLife.Domain.AssemblyInfo.cs
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.Domain\obj\Debug\net9.0\FocusOnLife.Domain.csproj.CoreCompileInputs.cache
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.Domain\obj\Debug\net9.0\FocusOnLife.Domain.dll
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.Domain\obj\Debug\net9.0\refint\FocusOnLife.Domain.dll
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.Domain\obj\Debug\net9.0\FocusOnLife.Domain.pdb
+C:\MAzevedo\Stuffs\FocusOnLife\FocusOnLife.Domain\obj\Debug\net9.0\ref\FocusOnLife.Domain.dll

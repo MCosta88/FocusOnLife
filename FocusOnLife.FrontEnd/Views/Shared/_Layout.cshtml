@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"] - FocusOnLife</title>
+
+    <!-- Bootstrap 5 -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Kendo UI -->
+    <link rel="stylesheet" href="https://kendo.cdn.telerik.com/themes/10.2.0/bootstrap/bootstrap-main.css" />
+
+    <style>
+        /* Ajustes de layout */
+        body {
+            background-color: #f8f9fa;
+        }
+
+        .container {
+            padding-top: 20px;
+        }
+
+        .navbar-brand {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <!-- Exibir Navbar se NÃO for página de login -->
+        @if (ViewData["IsLoginPage"] == null || !(bool)ViewData["IsLoginPage"])
+        {
+            <nav class="navbar navbar-expand-lg navbar-light bg-light shadow-sm">
+                <div class="container-fluid">
+                    <a class="navbar-brand" href="#">FocusOnLife</a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNav">
+                        <ul class="navbar-nav ms-auto">
+                            <li class="nav-item">
+                                <a class="nav-link" href="/Home/Index">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link btn btn-danger text-white px-3" href="/User/Logout">Sair</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        }
+
+        <main class="mt-4">
+            @RenderBody()  <!-- Aqui será inserido o conteúdo das páginas -->
+        </main>
+    </div>
+
+    <!-- Bootstrap e dependências -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Kendo UI -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://kendo.cdn.telerik.com/2025.1.211/js/kendo.all.min.js"></script>
+    <script>
+        KendoLicensing.setScriptKey("141j044b041h541j4i1d542e58285k264c22502j5f465d38613e613c59325b3e603j2a412f3b255925031c0k1b115c335a0h1i0a530e56435h3f5g3d603k280b280b1h365k3d2313243d5f3g5h3a583k61491f321b32165h1b0b310c4i420f42185446500j520f4i1a5j35173j5k0c5g1j3607531j173a0e5j2d04561d1a2j0h3b4k0d5b2k422a5a0g5g2c4b10370j501b0h4b2c610c36215g3d25531g0j462c4g0851235i024f2a381b5b294b2b562e0d5e23602i5h195a1a5b245g3d1h5j254h485912551f3f22193d1b50035305424i2661234k3i0740013g1a3c184b0i311135023c1d412i440g5j0b3i023c5k2a46135b125g2h43295i23361i4g234a125h22135i2i3h1k571j5h0a4k465507391d4j3k195b2j0d331147511g582i3g064k2k3519370c37174b111b5003424i1j36082h5d1c4k4611321659216113531d4i052a5g0g1c3a063j2f0c311246551e5b27003f1e51460k552h320e3e045e2k3k214702264i0j57330k4a04380e2e58173f1f502k4j43154a135c2f541b43143f16561c4h0d4g205045531e5e28073c17414j2k51223819224h430d3b1a235b0d38603h1b3b0b5f3b1452095i20312e3f20464k215b26312f4c23330f2c5616602d5h1a46004d400j1f370d1b40043h29510e3c2i0f5i1f60164b253e602g3c0d2i411i12591d5c3d231a5h163b1434201a1i43295e29572e4b0f4c0f33054d3d18225d14480h3h0f612739022c331e510c45083h1i3i1i50074h03274j1g1740285d274f0838124c3h1f3e05330i4j254725460a530d5h105h2b47125f29310i3e22144a083j033216510d471e4g283b5h032451095j3e094e093f125c36123h2g0c304523401e550852155d360j41144926560d5c27055523530d462f0f3b0j4h265e1b5c045a01441k370b2e0a2g0e3a2e3d07610d5h0e2c3d1a284b2a315a1f5730470c4e224i400g1e3i1a59234e093b015b05462d4f084j1g5b1e4h2j3i132547081g3h1b392e5h2d3f0c412a5a382248194i02264e085g0i4g01501h56032b612b07532g5k09275h2k410i1f434d2h3g094i21600e3g542654");
+    </script>
+
+    @RenderSection("Scripts", required: false)
+
+</body>
+</html>
